@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="image">
+    <file>IMGE/___IMGE.jpg</file>
+    <file>IMGE/end.gif</file>
+    <file>IMGE/Lazeez.ico</file>
+    <file>IMGE/10295013511558096452.svg</file>
+    <file>IMGE/14329293221556105345.svg</file>
+    <file>IMGE/16983312581574338606.svg</file>
+    <file>IMGE/9342375421561032683.svg</file>
+    <file>IMGE/A.jpg</file>
+    <file>IMGE/fac.svg</file>
+    <file>IMGE/GIF____LZ.gif</file>
+    <file>IMGE/icons8-instagram-25.png</file>
+    <file>IMGE/K.jpg</file>
+    <file>IMGE/messenger.png</file>
+    <file>IMGE/N.jpg</file>
+    <file>IMGE/—Pngtree—phone icon_4561566.png</file>
+    <file>IMGE/red-x-png-10.png</file>
+    <file>IMGE/Z.jpg</file>
+  </qresource>
+</RCC>
